@@ -1,10 +1,10 @@
 {
-"name": "Akeno Himejima",
-"version": "0.0.1",
+"name": "killer-bot",
+"version": "0.1.1",
 "description": "Simple WhatsApp Bot Multi Device",
 "main": "index.js",
 "type": "module",
-"botName": "Akeno Himejima",
+"botName": "Killer",
 "directories": {
 "lib": "lib",
 "src": "src",
@@ -19,16 +19,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/ianalejandrook15x/Akeno",
+"homepage": "https://github.com/ianalejandrook14x/Killer",
 "author": {
-"name": "ianalejandrook15x"
+"name": "ianalejandrook14x"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/ianalejandrook15x/Akeno.git"
+"url": "git+https://github.com/ianalejandrook14x/Killer.git"
 },
 "bugs": {
-"url": "https://github.com/ianalejandrook15x/Akeno/issues"
+"url": "https://github.com/ianalejandrook14x/Killer/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
