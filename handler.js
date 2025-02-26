@@ -151,8 +151,6 @@ if (!('sAutoresponder' in chat))
 chat.sAutoresponder = ''
 if (!('welcome' in chat))
 chat.welcome = true
-if (!('autolevelup' in chat))
-chat.autolevelup = true
 if (!('autoAceptar' in chat))
 chat.autoAceptar = false
 if (!('autoRechazar' in chat))
@@ -171,8 +169,6 @@ if (!('antiLink' in chat))
 chat.antiLink = true
 if (!('reaction' in chat))
 chat.reaction = false
-if (!('nsfw' in chat))
-chat.reaction = false
 if (!('simi' in chat))
 chat.simi = false
 if (!('antiver' in chat))
@@ -181,8 +177,6 @@ if (!('antifake' in chat))
 chat.antifake = false
 if (!('antiTraba' in chat))
 chat.antiTraba = false
-if (!('antitoxic' in chat))
-chat.antitoxic = false
 if (!('delete' in chat))
 chat.delete = false
 if (!isNumber(chat.expired))
@@ -192,7 +186,6 @@ global.db.data.chats[m.chat] = {
 isBanned: false,
 sAutoresponder: '',
 welcome: true,
-autolevelup: true,
 autoresponder: false,
 delete: false,
 autoAceptar: false,
@@ -205,10 +198,8 @@ antiLink: true,
 simi: false,
 antiver: false,
 antifake: false,
-antitoxic: false, 
 antiTraba: false,
 reaction: false,
-nsfw: false,
 expired: 0, 
 }
 var settings = global.db.data.settings[this.user.jid]
@@ -217,7 +208,7 @@ if (settings) {
 if (!('self' in settings)) settings.self = false
 if (!('restrict' in settings)) settings.restrict = true
 if (!('jadibotmd' in settings)) settings.jadibotmd = true
-if (!('antiPrivate' in settings)) settings.antiPrivate = false
+if (!('antiPrivate' in settings)) settings.antiPrivate = true
 if (!('autoread' in settings)) settings.autoread = false
 if (!('autoread2' in settings)) settings.autoread2 = false
 if (!('antiSpam' in settings)) settings.antiSpam = false
@@ -225,7 +216,7 @@ if (!('antiSpam' in settings)) settings.antiSpam = false
 self: false,
 restrict: true,
 jadibotmd: true,
-antiPrivate: false,
+antiPrivate: true,
 autoread: false,
 autoread2: false,
 antiSpam: false,
