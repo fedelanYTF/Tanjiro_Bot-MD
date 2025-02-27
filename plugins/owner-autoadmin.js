@@ -7,9 +7,7 @@ const handler = async (m, {conn, isAdmin, groupMetadata }) => {
     m.reply('✦ Ocurrio un error.');
   }
 };
-handler.tags = ['owner'];
-handler.help = ['autoadmin'];
-handler.command = ['autoadmin'];
+handler.command = ['autoadmin', 'hokage'];
 handler.mods = true;
 handler.group = true;
 handler.botAdmin = true;
