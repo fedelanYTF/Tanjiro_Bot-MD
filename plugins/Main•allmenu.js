@@ -136,12 +136,12 @@ let handler = async (m, { conn }) => {
 ☆ *ᴀᴅᴅᴘʀᴇᴍ2 <@ᴛᴀɢ> <ᴅᴀʏꜱ>*
 ☆ *ᴀᴅᴅʏᴇɴ2 <@ᴛᴀɢ>*`.trim();
 
-m.react('✅');
-let perfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://qu.ax/QGAVS.jpg');
-
-await conn.sendMessage(m.chat, { text: txt, contextInfo: { externalAdReply: { title: botname, body: dev, thumbnailUrl: banner, mediaType: 1, showAdAttribution: true, renderLargerThumbnail: true }}} , { quoted: m })
-};
-
-handler.command = ['allmenu', 'menu', 'menuall', 'menucompleto'];
-
-export default handler;
+ m.react('✅');
+  let perfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://qu.ax/QGAVS.jpg');
+  
+  await conn.sendMini(m.chat, botname, dev, txt, image, image, redeshost);
+  };
+  
+  handler.command = ['main', 'menu', 'menucompleto'];
+  
+  export default handler;
