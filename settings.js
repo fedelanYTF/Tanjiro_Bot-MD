@@ -11,8 +11,8 @@ global.botNumberCode = ''
 global.confirmCode = ''
 
 global.owner = [
-   ['5493876639332', 'Ian', true],
-   ['50360438371', 'Alex', true],
+   ['5491156178758', '𝖿ᥱძᥱᥣᥲᥒ', true],
+   ['13124976342', 'Josue', true],
 ]
 
 global.mods = []
@@ -24,16 +24,16 @@ global.baileys = 'V 6.7.8'
 global.vs = '1.0.1'
 global.languaje = 'Español'
 global.nameqr = 'ʙᴏᴛ ᴋɪʟʟᴇʀ | ʙʏ ᴊᴜᴅᴀɪ'
-global.sessions = 'Killer'
+global.sessions = 'Tenkuu'
 global.jadi = 'JadiBot'
 
 global.banner = 'https://qu.ax/ucKST.jpg'
-global.botname = 'ᴋɪʟʟᴇʀ ʙᴏᴛ'
+global.botname = '𝐓𝐞𝐧𝐤𝐮𝐮_𝐁𝐨𝐭-𝐌𝐃'
 global.author = 'ᴏᴡɴᴇʀ | ᴊᴜᴅᴀɪ'
-global.dev = 'ᴋɪʟʟᴇʀ ʙᴏᴛ / ʙʏ ᴊᴜᴅᴀɪ'
+global.dev = 'ძᥱ᥎ᥱᥣ᥆⍴ᥱძ ᑲᥡ • 𝖿ᥱძᥱᥣᥲᥒ'
 global.currency = 'Yenes'
 global.botStatus = true;
-global.numc = '50360438371'
+global.numc = '5491156178758'
 
 global.image = fs.readFileSync('./src/img/imagen.jpeg')
 global.avatar = fs.readFileSync('./src/img/raid.jpeg')
