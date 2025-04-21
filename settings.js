@@ -38,8 +38,8 @@ global.numc = '5491156178758'
 global.image = fs.readFileSync('./src/img/imagen.jpeg')
 global.avatar = fs.readFileSync('./src/img/raid.jpeg')
 
-global.grupo = 'https://chat.whatsapp.com/KiJY7gZS17aLcP6qaGatFX'
-global.channel = 'https://whatsapp.com/channel/0029VajkZ6bIXnlwPZmbuH1u'
+global.grupo = 'https://chat.whatsapp.com/JMM0yzxlqxj7WYax29v3b0'
+global.channel = 'https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n'
 
 
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "543876577197-120363317332020195@g.us" } : {}) }, message: { orderMessage: { itemCount : 100, status: 1, surface : 1, message: 'by fedelan', orderTitle: 'Bang', thumbnail: image, sellerJid: '0@s.whatsapp.net'}}}
