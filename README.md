@@ -1,6 +1,6 @@
 ## Tenkuu_Bot-MD
 <p align="center">
-<img src="https://telegra.ph/file/465c19aff6901c8f6e57f.jpg" alt="Goku_black-Bot" width="800"/>
+<img src="https://files.catbox.moe/62kd0v.jpg" alt="Tenkuu_Bot-MD" width="800"/>
 </p>
 
 > [!IMPORTANT]\
