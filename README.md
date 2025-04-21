@@ -4,7 +4,7 @@
 </p>
 
 > [!IMPORTANT]\
-> Este proyecto **todavia sigue en desarrollo por lo que pueda que no funcione correctamente en ciertos comandos**, creador y desarrollador `ianalejandrook15x`.
+> Este proyecto **todavia sigue en desarrollo por lo que pueda que no funcione correctamente en ciertos comandos**, creador y desarrollador `fedelanYT`.
 
 ## [Pronto en el bot](https://github.com/ianalejandrook14x/itsuki)
 - [x] Configuración de grupo
@@ -16,6 +16,6 @@
 - [x] Juego RPG
 
 ---------
-![github stats](https://github-readme-stats.vercel.app/api?username=ianalejandrook14x&show_icons=true&theme=chartreuse-dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=fedelanYT&show_icons=true&theme=chartreuse-dark)
 
 ---------
