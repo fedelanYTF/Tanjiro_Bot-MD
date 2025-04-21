@@ -32,7 +32,7 @@ let handler = async (m, { conn }) => {
 *setname*
 *setwelcome*
 
-> Bყ ✦ ιαɳαʅҽʝαɳԃɾσσƙ15x
+> Bყ ✦ 𝖿ᥱძᥱᥣᥲᥒ
 
 *copia*
 *e*
