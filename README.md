@@ -1,3 +1,8 @@
+## Tenkuu_Bot-MD
+<p align="center">
+<img src="https://telegra.ph/file/465c19aff6901c8f6e57f.jpg" alt="Goku_black-Bot" width="800"/>
+</p>
+
 > [!IMPORTANT]\
 > Este proyecto **todavia sigue en desarrollo por lo que pueda que no funcione correctamente en ciertos comandos**, creador y desarrollador `ianalejandrook15x`.
 
