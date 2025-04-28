@@ -19,16 +19,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/ianalejandrook14x/Killer",
+"homepage": "https://github.com/fedelanYT/Tenkuu_Bot-MD",
 "author": {
-"name": "ianalejandrook14x"
+"name": "fedelanYT"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/ianalejandrook14x/Killer.git"
+"url": "git+https://github.com/fedelanYT/Tenkuu_Bot-MD.git"
 },
 "bugs": {
-"url": "https://github.com/ianalejandrook14x/Killer/issues"
+"url": "https://github.com/fedelanYT/Tenkuu_Bot-MD/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
