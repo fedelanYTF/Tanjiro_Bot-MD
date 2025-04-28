@@ -1,10 +1,10 @@
 {
-"name": "Tenkuu-bot",
+"name": "Tenkuu_Bot-MD",
 "version": "0.1.1",
 "description": "Simple WhatsApp Bot Multi Device",
 "main": "index.js",
 "type": "module",
-"botName": "Killer",
+"botName": "Tenkuu_Bot-MD",
 "directories": {
 "lib": "lib",
 "src": "src",
