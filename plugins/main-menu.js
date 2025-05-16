@@ -18,7 +18,7 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, com
     let totalreg = Object.keys(global.db.data.users).length
     let rtotalreg = Object.values(global.db.data.users).filter(user => user.registered == true).length
 
-        await m.react('☁️')
+        await m.react('💙')
         let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
         let perfil = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://files.catbox.moe/pk3xxk.jpg')
 
@@ -26,9 +26,8 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, com
 
         let menu = `
 ㅤㅤㅤ⩁꯭ ͡  ͡ᩚ꯭ ꯭⩁ㅤㅤ𑁯🤍ᰍㅤㅤ⩁꯭ ͡  ͡ᩚ꯭ ꯭⩁
-೯ ׅ 👤 ¡Hᴏʟᴀ! ¿Cᴏᴍᴏ Esᴛᴀ́s? ׄ ᦡᦡ
-ㅤ꒰͜͡${taguser}
-ㅤㅤ♡𑂳ᩙㅤ ּ ${saludo} ׄ ㅤタス
+👤 ¡Hᴏʟᴀ! ${taguser} ¿Cᴏᴍᴏ Esᴛᴀ́s?
+${saludo} ׄ
 
 *🧇 Activo:* ${uptime}
 *👥 Usuarios:* ${totalreg}
@@ -39,7 +38,8 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, com
 *🫖 Nivel:* ${level}
 *🍢 Rango:* ${role}
 ${readMore}
-ㅤ ㅤ   乂 *ʟɪsᴛᴀ ᴅᴇ ᴄᴏᴍᴀɴᴅᴏs* 乂
+
+ㅤ 乂 *ʟɪsᴛᴀ ᴅᴇ ᴄᴏᴍᴀɴᴅᴏs* 乂
 
 𓂂𓏸  𐅹੭੭   *\`Mᧉ𝗇𝗎𝗌\`*   🍃ᩚ꤬ᰨᰍ
 ര ׄ 🍃˚ ${usedPrefix}menunsfw
