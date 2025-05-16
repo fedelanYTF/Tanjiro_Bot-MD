@@ -66,7 +66,7 @@ global.wait = '*⏳ Aguarde un momento...*';
 global.hotw = '*🔥 El contenido* `+18` *está desactivado para este chat.*\n> Use *enable nsfw* para activarlo.';
 
 //ENLACES
-var grupo = 'https://chat.whatsapp.com/FCS6htvAmlT7nq006lxU4I'  
+var grupo = 'https://chat.whatsapp.com/L6Aiv7yk9YNEcmgGn4Sw7u'  
 var github = 'https://github.com/CrxstianEscobar/ShadowBot-MD' 
 var web = 'https://shadow-bot.vercel.app/' 
 let instagram = 'https://www.instagram.com/shadowbot.md'
@@ -140,12 +140,12 @@ global.packsticker = `ꘓꘓ  ໒☀️ؑ  𝖲ᥙᥒ𝖿͟ᥣ͟ᥲ𝗋ᥱࣲ  �
 //FAKES
 global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 
-global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363318267632676@newsletter', newsletterName: "˚₊·͟͟͟͟͟͟͞͞͞͞͞͞𝑺𝒖𝒏𝒇𝒍𝒂𝒓𝒆 - 𝑻𝒆𝒂𝒎 ೃ࿔₊•", serverMessageId: -1 }
+global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363402097425674@newsletter', newsletterName: "˚₊·͟͟͟͟͟͟͞͞͞͞͞͞𝑺𝒖𝒏𝒇𝒍𝒂𝒓𝒆 - 𝑻𝒆𝒂𝒎 ೃ࿔₊•", serverMessageId: -1 }
 }}, { quoted: m }
 
 //ID CANALES
-global.idchannel = '120363357231409846@newsletter'
-global.canalIdM = ["120363357231409846@newsletter", "120363357231409846@newsletter", "120363357231409846@newsletter"]
+global.idchannel = '120363402097425674@newsletter'
+global.canalIdM = ["120363402097425674@newsletter", "120363402097425674@newsletter", "120363402097425674@newsletter"]
 global.canalNombreM = ["⏤͟͟͞͞𝖲𝗁ᥲძ𝗈ա  ⚡︎  𝖴𝗅𝗍𝗋𝖺۵࿐", "𝑺𝒉𝒂𝒅𝒐𝒘 𝑼𝒍𝒕𝒓𝒂 - 𝑴𝑫", "⏤͟͟͞͞☆ 𝑺𝒉𝒂𝒅𝒐𝒘 - 𝑻𝒆𝒔𝒕"]
 global.channelRD = await getRandomChannel()
 // global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "3876577197-120363302285079181@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
