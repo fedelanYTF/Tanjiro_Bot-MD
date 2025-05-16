@@ -26,7 +26,7 @@ href="https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.a"><img src="htt
 #### **`🚩Instalar Por Termux🚩`**
 
 <details>
- <summary><b> 👉 Haga Click para los ver Comandos</b></summary>
+<summary><b> 👉 Haga Click para los ver Comandos</b></summary>
 
 #### **🪄 `Instalación manual por termux`**
 > copie y peguen en termux uno por uno 
@@ -39,7 +39,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/fedelanYTF/Tanjiro_Bot && cd Tanjiro_Bot
+git clone https://github.com/fedelanYT/Tenkuu_Bot-MD && cd Tenkuu_Bot-MD
 ```
 
 ```bash
