@@ -25,8 +25,8 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, com
         const videoUrl = 'https://files.catbox.moe/7ha109.mp4' // URL fija del video
 
         let menu = `
-ㅤㅤㅤ⩁꯭ ͡  ͡ᩚ꯭ ꯭⩁ㅤㅤ𑁯🤍ᰍㅤㅤ⩁꯭ ͡  ͡ᩚ꯭ ꯭⩁
-👤 ¡Hᴏʟᴀ! ${taguser} ¿Cᴏᴍᴏ Esᴛᴀ́s?
+ㅤㅤㅤ⩁꯭ ͡  ͡ᩚ꯭ ꯭⩁ㅤㅤ𑁯💙ᰍㅤㅤ⩁꯭ ͡  ͡ᩚ꯭ ꯭⩁
+👤 ¡Hᴏʟᴀ! ¿Cᴏᴍᴏ Esᴛᴀ́s?
 ${saludo} ׄ
 
 *🧇 Activo:* ${uptime}
