@@ -33,7 +33,6 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, com
 ✦ *Economía: ${global.currency}*
 ✦ *Prefix: [.]
 
-𓂂𓏸  𐅹੭੭   *\`MENU-BOT\`*   🍃ᩚ꤬ᰨᰍ
 *\`Info\`*
 
 ✦ *perfil*
@@ -129,10 +128,9 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, com
 
 ✦ *togifaud*
 ✦ *toimg*
-✦ *toaudio*
-`.trim()
+✦ *toaudio* `.trim()
 
-        await conn.sendMessage(m.chat, {
+     await conn.sendMessage(m.chat, {
             foto: { url: fotoUrl }, // Foto fijo
             caption: menu,
             contextInfo: {
