@@ -1,4 +1,4 @@
-## Tenkuu_Bot-MD
+## Tanjiro_Bot-MD
 <p align="center">
 <img src="https://files.catbox.moe/62kd0v.jpg" alt="Tenkuu_Bot-MD" width="800"/>
 </p>
@@ -39,7 +39,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/fedelanYT/Tenkuu_Bot-MD && cd Tenkuu_Bot-MD
+git clone https://github.com/fedelanYTF/Tanjiro_Bot-MD && cd Tanjiro_Bot-MD
 ```
 
 ```bash
@@ -55,6 +55,6 @@ npm start
 
 ---------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=fedelanYT&show_icons=true&theme=chartreuse-dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=fedelanYTF&show_icons=true&theme=chartreuse-dark)
 
 ---------
