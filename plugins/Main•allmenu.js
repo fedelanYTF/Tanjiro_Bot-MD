@@ -30,28 +30,15 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, com
     
 👤 ¡Hᴏʟᴀ! ${taguser} ¿Cᴏᴍᴏ Esᴛᴀ́s?
 💙${saludo}
-
-┏━━⪩「 𝐈𝐍𝐅𝐎 𝐁𝐎𝐓 」⪨
-┃❂ ⧼⌛⧽ *Activo:* ${uptime}
-┃❂ ⧼👤⧽ *Usuarios:* ${totalreg}
-┃❂ ⧼🆙️⧽ *Versión:* 4.0.0
-┗━━━━━━━━━━━━━━━⪩
-
-┏━━⪩「 𝐈𝐍𝐅𝐎 𝐃𝐄 𝐔𝐒𝐔𝐀𝐑𝐈𝐎 」⪨
-┃❂ ⧼💎⧽ *Gemas:* ${diamantes}
-┃❂ ⧼💫⧽ *Exp:* ${exp}
-┃❂ ⧼⏏⧽ *Nivel:* ${level}
-┃❂ ⧼🍢⧽ *Rango:* ${role}
-${readMore}┗━━━━━━━━━━━━━━━⪩
 ㅤ ㅤ   
     乂 *ʟɪsᴛᴀ ᴅᴇ ᴄᴏᴍᴀɴᴅᴏs* 乂
 
-𓂂𓏸  𐅹੭੭   *\`MENU-BOT\`*   🍃ᩚ꤬ᰨᰍ
 ✦ *Nombre: ${global.botname}*
 ✦ *Versión: ${global.vs}*
 ✦ *Economía: ${global.currency}*
 ✦ *Prefix: [.]
-  
+
+𓂂𓏸  𐅹੭੭   *\`MENU-BOT\`*   🍃ᩚ꤬ᰨᰍ
 *\`Info\`*
 
 ✦ *perfil*
@@ -158,7 +145,7 @@ ${readMore}┗━━━━━━━━━━━━━━━⪩
                 isForwarded: true,
                 forwardingScore: 999,
                 externalAdReply: {
-                    title: '💎TᗩᑎᒍIᖇO-ᗷOT💎\nCreador fedelanYT 💙',
+                    title: '💎TENKUU-BOT💎\nCreador fedelanYT 💙',
                     thumbnailUrl: perfil,
                     mediaType: 1,
                     renderLargerThumbnail: false,
