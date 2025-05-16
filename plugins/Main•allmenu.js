@@ -25,13 +25,9 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, com
         const fotoUrl = 'https://files.catbox.moe/62kd0v.jpg' // URL fija del foto
 
         let menu = `
-ㅤㅤ𔓕꯭  ꯭ 𓏲꯭֟፝੭💙𝐓𝐀𝐍𝐉𝐈𝐑𝐎-𝐁𝐎𝐓💙𓏲꯭֟፝੭ ꯭  ꯭𔓕
- *•:•:•:•:•:•:•:•:•:•:•:•:•:☾☼☽•:•.•:•.•:•:•:•:•:•:•:•:•:*
-    
+
 👤 ¡Hᴏʟᴀ! ${taguser} ¿Cᴏᴍᴏ Esᴛᴀ́s?
 💙${saludo}
-ㅤ ㅤ   
-    乂 *ʟɪsᴛᴀ ᴅᴇ ᴄᴏᴍᴀɴᴅᴏs* 乂
 
 ✦ *Nombre: ${global.botname}*
 ✦ *Versión: ${global.vs}*
